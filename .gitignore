@@ -1,0 +1,9 @@
+# secrets
+*.env
+api_key.txt
+# notebook / OS clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+~$*

@@ -1,0 +1,34 @@
+﻿"New motor vehicle registrations, quarterly, by geographic level 1"
+"Frequency: Quarterly"
+"Table: 20-10-0025-01"
+"Release date: 2026-09-08"
+"Geography: Canada, Province or territory, Census subdivision, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+""
+""
+
+"Geography","Canada",,,,,,,,,,,,,,
+"Vehicle type","Total, vehicle type 2",,,,,,,,,,,,,,
+"Statistics","Number of vehicles",,,,,,,,,,,,,,
+"Fuel type","Q4 2022","Q1 2023","Q2 2023","Q3 2023","Q4 2023","Q1 2024","Q2 2024","Q3 2024","Q4 2024","Q1 2025","Q2 2025","Q3 2025","Q4 2025","Q1 2026","Q2 2026"
+,"Units",,,,,,,,,,,,,,
+"All fuel types","346,478","355,886","473,602","457,368","428,143","414,920","511,378","483,588","443,555","426,872","541,896","486,283","412,746","397,601","547,673"
+"Gasoline","279,160","285,416","367,146","343,102","320,848","313,579","383,701","339,576","296,534","312,170","405,417","357,648","297,125","283,361","375,814"
+"Diesel","16,536","16,567","19,766","18,106","19,589","17,980","20,922","21,866","18,980","23,637","24,234","21,455","17,920","17,543","21,180"
+"All zero-emission vehicles","33,420","30,978","47,685","57,406","52,687","48,425","65,799","75,788","81,216","37,229","46,413","47,222","47,204","43,113","58,811"
+"Battery electric","27,775","24,217","35,633","43,763","40,053","35,782","48,552","56,197","61,802","26,401","29,536","28,648","31,482","29,808","40,585"
+"Plug-in hybrid electric","5,645","6,761","12,052","13,643","12,634","12,643","17,247","19,591","19,414","10,828","16,877","18,574","15,722","13,305","18,226"
+"Hybrid electric","17,362","22,919","39,000","38,751","35,017","34,934","40,945","46,355","46,821","53,828","65,832","59,952","50,478","53,584","91,868"
+"Other fuel types 3","0","6","5","3","2","2","11","3","4","8","0","6","19","0","0"
+
+
+
+
+Footnotes:
+1,"To ensure confidentiality, a process known as Random Tabular Adjustment (RTA) was used. This changes estimates by a random amount and adds a degree of uncertainty to the accuracy of the estimate to prevent the disclosure of individual values. As a result, estimates that could disclose an individual's response are not released. (Note that if the adjusted estimates are part of a table with totals or sub-totals, the related total and sub-total estimates will also be adjusted.)"
+2,"Total vehicle type excludes buses, trailers, recreational vehicles, motorcycles, snowmobiles, golf carts, etcetera."
+3,"Other fuel types include liquid propane, natural gas, hydrogen, etcetera."
+
+
+
+"How to cite: Statistics Canada. Table 20-10-0025-01  New motor vehicle registrations, quarterly, by geographic level"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010002501
