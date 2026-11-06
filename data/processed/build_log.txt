@@ -1,0 +1,17 @@
+FSA table: 521 Ontario FSAs with 2021 population
+EV registrations: 7487 FSA-quarter rows, 13 quarters (2023-Q1 to 2026-Q2)
+Quality check – missing quarters: ['2023-Q4']
+Quality check – FSAs in EV data but not in 2021 Census (kept out of joins): 93 (small or new FSAs, e.g. K0N, K0S, K2Z, K3M, K4N)
+Charging stations: 4608 (0 duplicates removed)
+Quality check – stations with an invalid/out-of-province postal code: 4
+Spatial join – postal-code FSA differs from boundary FSA for 826 stations (postal code kept)
+Spatial join – fixed 4 of 4 invalid postal codes
+Stations matched to an FSA: 4585 of 4608
+Vehicle registrations (Canada): 120 rows
+Funding announcements: 0 rows
+FSAs with EVs but no public port in 2026-Q2: 62
+Dump: fsa -> 521 rows
+Dump: ev_registrations -> 6759 rows
+Dump: charging_stations -> 4608 rows
+Dump: vehicle_registrations_prov -> 120 rows
+Dump: funding_announcements -> 0 rows

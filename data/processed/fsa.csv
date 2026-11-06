@@ -1,0 +1,522 @@
+fsa_code,region,population,dwellings
+K0A,Eastern Ontario,111626,43737
+K0B,Eastern Ontario,21020,9489
+K0C,Eastern Ontario,52838,22714
+K0E,Eastern Ontario,39649,18426
+K0G,Eastern Ontario,39862,19411
+K0H,Eastern Ontario,47286,25346
+K0J,Eastern Ontario,34322,19885
+K0K,Eastern Ontario,115850,53153
+K0L,Eastern Ontario,78142,48786
+K0M,Eastern Ontario,53815,37422
+K1A,Eastern Ontario,594,416
+K1B,Eastern Ontario,17769,6866
+K1C,Eastern Ontario,37235,14312
+K1E,Eastern Ontario,14508,5863
+K1G,Eastern Ontario,35074,15333
+K1H,Eastern Ontario,16306,7289
+K1J,Eastern Ontario,28268,11423
+K1K,Eastern Ontario,32046,15235
+K1L,Eastern Ontario,18213,10797
+K1M,Eastern Ontario,6764,3341
+K1N,Eastern Ontario,26639,17122
+K1P,Eastern Ontario,645,568
+K1R,Eastern Ontario,20343,12836
+K1S,Eastern Ontario,31257,15662
+K1T,Eastern Ontario,40054,13967
+K1V,Eastern Ontario,57157,23359
+K1W,Eastern Ontario,13825,4730
+K1X,Eastern Ontario,4594,1575
+K1Y,Eastern Ontario,20712,10737
+K1Z,Eastern Ontario,22714,11642
+K2A,Eastern Ontario,17156,7738
+K2B,Eastern Ontario,33254,15737
+K2C,Eastern Ontario,29359,13056
+K2E,Eastern Ontario,20172,8461
+K2G,Eastern Ontario,50692,18451
+K2H,Eastern Ontario,26759,11530
+K2J,Eastern Ontario,81863,27759
+K2K,Eastern Ontario,24922,9716
+K2L,Eastern Ontario,18739,7309
+K2M,Eastern Ontario,28708,10069
+K2P,Eastern Ontario,18825,14113
+K2R,Eastern Ontario,1237,424
+K2S,Eastern Ontario,38903,13924
+K2T,Eastern Ontario,11871,4064
+K2V,Eastern Ontario,10486,3637
+K2W,Eastern Ontario,8553,2665
+K4A,Eastern Ontario,62125,22000
+K4B,Eastern Ontario,4704,1741
+K4C,Eastern Ontario,4538,1636
+K4K,Eastern Ontario,16958,6763
+K4M,Eastern Ontario,14380,5393
+K4P,Eastern Ontario,10448,3551
+K4R,Eastern Ontario,8740,3220
+K6A,Eastern Ontario,12529,6325
+K6H,Eastern Ontario,30440,14112
+K6J,Eastern Ontario,17827,8263
+K6K,Eastern Ontario,3452,1414
+K6T,Eastern Ontario,690,264
+K6V,Eastern Ontario,28174,13705
+K7A,Eastern Ontario,17575,7814
+K7C,Eastern Ontario,20382,8631
+K7G,Eastern Ontario,8740,4305
+K7H,Eastern Ontario,16175,8360
+K7K,Eastern Ontario,33705,16786
+K7L,Eastern Ontario,19621,12191
+K7M,Eastern Ontario,49268,22585
+K7N,Eastern Ontario,8395,3411
+K7P,Eastern Ontario,24660,9538
+K7R,Eastern Ontario,15480,6845
+K7S,Eastern Ontario,14265,6399
+K7V,Eastern Ontario,13943,6881
+K8A,Eastern Ontario,26392,11919
+K8B,Eastern Ontario,490,176
+K8H,Eastern Ontario,16188,6342
+K8N,Eastern Ontario,30393,13782
+K8P,Eastern Ontario,23166,10592
+K8R,Eastern Ontario,2012,791
+K8V,Eastern Ontario,28936,12523
+K9A,Eastern Ontario,26757,11937
+K9H,Eastern Ontario,29704,14391
+K9J,Eastern Ontario,44547,19998
+K9K,Eastern Ontario,13359,5226
+K9L,Eastern Ontario,7813,3099
+K9V,Eastern Ontario,29369,12949
+L0A,Central Ontario,15325,5729
+L0B,Central Ontario,15501,6072
+L0C,Central Ontario,9486,3537
+L0E,Central Ontario,21898,10072
+L0G,Central Ontario,44945,15980
+L0H,Central Ontario,1223,465
+L0J,Central Ontario,4945,1529
+L0K,Central Ontario,38386,22207
+L0L,Central Ontario,42022,19252
+L0M,Central Ontario,37226,14086
+L0N,Central Ontario,2395,894
+L0P,Central Ontario,7779,2777
+L0R,Central Ontario,83602,29717
+L0S,Central Ontario,60409,28128
+L1A,Central Ontario,15845,7030
+L1B,Central Ontario,13203,5280
+L1C,Central Ontario,50217,18207
+L1E,Central Ontario,28325,9806
+L1G,Central Ontario,43497,19291
+L1H,Central Ontario,32298,14480
+L1J,Central Ontario,43107,17776
+L1K,Central Ontario,43574,13824
+L1L,Central Ontario,12976,3986
+L1M,Central Ontario,22542,6992
+L1N,Central Ontario,49649,19596
+L1P,Central Ontario,22928,7132
+L1R,Central Ontario,42221,13260
+L1S,Central Ontario,42045,16037
+L1T,Central Ontario,52632,15281
+L1V,Central Ontario,52787,18257
+L1W,Central Ontario,18433,7323
+L1X,Central Ontario,24639,7516
+L1Y,Central Ontario,1976,730
+L1Z,Central Ontario,31989,8957
+L2A,Central Ontario,17293,7783
+L2E,Central Ontario,18587,9017
+L2G,Central Ontario,30344,13412
+L2H,Central Ontario,29820,10594
+L2J,Central Ontario,14908,6369
+L2M,Central Ontario,33704,14869
+L2N,Central Ontario,30719,13827
+L2P,Central Ontario,15128,6706
+L2R,Central Ontario,25558,13117
+L2S,Central Ontario,19400,7837
+L2T,Central Ontario,11401,5309
+L2V,Central Ontario,19795,8400
+L2W,Central Ontario,1959,686
+L3B,Central Ontario,25869,11617
+L3C,Central Ontario,33462,14273
+L3K,Central Ontario,19458,9086
+L3L,Central Ontario,879,257
+L3M,Central Ontario,28433,11465
+L3P,Central Ontario,37336,12978
+L3R,Central Ontario,62060,21994
+L3S,Central Ontario,55403,15734
+L3T,Central Ontario,50405,20672
+L3V,Central Ontario,48651,22293
+L3X,Central Ontario,45284,14261
+L3Y,Central Ontario,43556,17365
+L3Z,Central Ontario,41072,13290
+L4A,Central Ontario,50389,17366
+L4B,Central Ontario,36080,13301
+L4C,Central Ontario,74636,30129
+L4E,Central Ontario,54606,17103
+L4G,Central Ontario,62061,22255
+L4H,Central Ontario,77353,22218
+L4J,Central Ontario,75120,26995
+L4K,Central Ontario,20172,8679
+L4L,Central Ontario,55426,20428
+L4M,Central Ontario,46902,19372
+L4N,Central Ontario,100835,37801
+L4P,Central Ontario,29861,11365
+L4R,Central Ontario,19245,8901
+L4S,Central Ontario,36688,11480
+L4T,Central Ontario,38182,12302
+L4V,Central Ontario,5,1
+L4W,Central Ontario,19744,7358
+L4X,Central Ontario,18719,7074
+L4Y,Central Ontario,23490,9118
+L4Z,Central Ontario,37218,13241
+L5A,Central Ontario,47406,18817
+L5B,Central Ontario,67131,29048
+L5C,Central Ontario,29284,10210
+L5E,Central Ontario,12972,5539
+L5G,Central Ontario,20714,9226
+L5H,Central Ontario,17409,6541
+L5J,Central Ontario,28208,10960
+L5K,Central Ontario,13363,4732
+L5L,Central Ontario,43585,15694
+L5M,Central Ontario,106468,33246
+L5N,Central Ontario,83700,27101
+L5R,Central Ontario,37022,13438
+L5S,Central Ontario,27,6
+L5T,Central Ontario,19,5
+L5V,Central Ontario,49149,13962
+L5W,Central Ontario,24145,6470
+L6A,Central Ontario,89287,27080
+L6B,Central Ontario,34763,10373
+L6C,Central Ontario,51738,16291
+L6E,Central Ontario,38387,11924
+L6G,Central Ontario,8364,4916
+L6H,Central Ontario,72662,25860
+L6J,Central Ontario,24420,8656
+L6K,Central Ontario,14118,6598
+L6L,Central Ontario,30012,11714
+L6M,Central Ontario,72547,23351
+L6P,Central Ontario,91155,21549
+L6R,Central Ontario,93783,23902
+L6S,Central Ontario,54361,17297
+L6T,Central Ontario,39614,14127
+L6V,Central Ontario,42392,14632
+L6W,Central Ontario,23547,8735
+L6X,Central Ontario,76113,21772
+L6Y,Central Ontario,97601,28798
+L6Z,Central Ontario,33888,10472
+L7A,Central Ontario,104009,27796
+L7B,Central Ontario,17809,5790
+L7C,Central Ontario,33846,9967
+L7E,Central Ontario,34516,11754
+L7G,Central Ontario,48051,16847
+L7J,Central Ontario,13766,5110
+L7K,Central Ontario,8486,3164
+L7L,Central Ontario,47433,17852
+L7M,Central Ontario,48498,17184
+L7N,Central Ontario,13160,5469
+L7P,Central Ontario,29777,11060
+L7R,Central Ontario,17338,8675
+L7S,Central Ontario,12207,6368
+L7T,Central Ontario,18555,8287
+L8B,Central Ontario,25778,9053
+L8E,Central Ontario,41927,15736
+L8G,Central Ontario,21805,9518
+L8H,Central Ontario,26187,11792
+L8J,Central Ontario,29146,9465
+L8K,Central Ontario,32598,14405
+L8L,Central Ontario,32312,14444
+L8M,Central Ontario,13774,7096
+L8N,Central Ontario,15568,8630
+L8P,Central Ontario,24773,14969
+L8R,Central Ontario,11651,6113
+L8S,Central Ontario,15787,8714
+L8T,Central Ontario,19405,7948
+L8V,Central Ontario,21165,9662
+L8W,Central Ontario,26077,8612
+L9A,Central Ontario,25899,10346
+L9B,Central Ontario,25025,8461
+L9C,Central Ontario,41202,15123
+L9E,Central Ontario,16933,5075
+L9G,Central Ontario,25020,9180
+L9H,Central Ontario,31221,12828
+L9J,Central Ontario,2272,1138
+L9K,Central Ontario,15928,5138
+L9L,Central Ontario,14620,5910
+L9M,Central Ontario,16607,9066
+L9N,Central Ontario,21656,7297
+L9P,Central Ontario,17383,6770
+L9R,Central Ontario,25949,9929
+L9S,Central Ontario,33434,13557
+L9T,Central Ontario,110956,34110
+L9V,Central Ontario,17750,6657
+L9W,Central Ontario,48790,17840
+L9X,Central Ontario,12896,4326
+L9Y,Central Ontario,28925,17262
+L9Z,Central Ontario,24849,13761
+M1B,Toronto,65555,21561
+M1C,Toronto,35642,11724
+M1E,Toronto,48033,18085
+M1G,Toronto,30894,10791
+M1H,Toronto,23964,9021
+M1J,Toronto,37002,13253
+M1K,Toronto,48175,18687
+M1L,Toronto,35833,13177
+M1M,Toronto,23258,9067
+M1N,Toronto,22976,10056
+M1P,Toronto,45170,17308
+M1R,Toronto,30467,11476
+M1S,Toronto,37663,14021
+M1T,Toronto,34607,13826
+M1V,Toronto,50825,16556
+M1W,Toronto,47070,17294
+M1X,Toronto,14810,3808
+M2H,Toronto,23396,8953
+M2J,Toronto,61761,25487
+M2K,Toronto,25377,12626
+M2L,Toronto,11274,4181
+M2M,Toronto,31915,13259
+M2N,Toronto,75100,36968
+M2P,Toronto,7546,3152
+M2R,Toronto,40581,16189
+M3A,Toronto,34361,13705
+M3B,Toronto,12880,5178
+M3C,Toronto,39616,17146
+M3H,Toronto,38416,15630
+M3J,Toronto,26600,10445
+M3K,Toronto,7865,3100
+M3L,Toronto,19263,6700
+M3M,Toronto,24906,9962
+M3N,Toronto,40846,14308
+M4A,Toronto,14589,6303
+M4B,Toronto,18612,8038
+M4C,Toronto,46440,20553
+M4E,Toronto,25473,11581
+M4G,Toronto,19598,8622
+M4H,Toronto,18698,6419
+M4J,Toronto,35128,15338
+M4K,Toronto,30913,15139
+M4L,Toronto,32218,14789
+M4M,Toronto,25052,12249
+M4N,Toronto,16058,6669
+M4P,Toronto,25057,16696
+M4R,Toronto,11909,5989
+M4S,Toronto,30754,17169
+M4T,Toronto,10332,5619
+M4V,Toronto,19273,11403
+M4W,Toronto,15296,9238
+M4X,Toronto,19896,11142
+M4Y,Toronto,36319,26472
+M5A,Toronto,48978,30508
+M5B,Toronto,17422,13071
+M5C,Toronto,3149,2306
+M5E,Toronto,11779,8246
+M5G,Toronto,9751,7198
+M5H,Toronto,3248,2355
+M5J,Toronto,16879,11928
+M5M,Toronto,25495,9726
+M5N,Toronto,16154,6724
+M5P,Toronto,19791,10417
+M5R,Toronto,26197,16591
+M5S,Toronto,17074,10971
+M5T,Toronto,17903,10452
+M5V,Toronto,59912,42449
+M6A,Toronto,22380,9803
+M6B,Toronto,28534,11630
+M6C,Toronto,23997,11093
+M6E,Toronto,37684,16172
+M6G,Toronto,30600,14329
+M6H,Toronto,43730,21284
+M6J,Toronto,32111,17027
+M6K,Toronto,42110,25403
+M6L,Toronto,20156,7721
+M6M,Toronto,42148,16883
+M6N,Toronto,40252,16981
+M6P,Toronto,39870,20750
+M6R,Toronto,19349,9255
+M6S,Toronto,34029,15343
+M7A,Toronto,5,5
+M8V,Toronto,44144,24434
+M8W,Toronto,22381,9994
+M8X,Toronto,10624,4814
+M8Y,Toronto,21986,10533
+M8Z,Toronto,19312,7784
+M9A,Toronto,36642,16604
+M9B,Toronto,33236,13246
+M9C,Toronto,38725,15834
+M9L,Toronto,11737,4082
+M9M,Toronto,24245,8500
+M9N,Toronto,26059,11272
+M9P,Toronto,20645,8199
+M9R,Toronto,33783,12898
+M9V,Toronto,53878,17463
+M9W,Toronto,40977,14820
+N0A,Southwestern Ontario,31957,14737
+N0B,Southwestern Ontario,86919,31269
+N0C,Southwestern Ontario,17537,8191
+N0E,Southwestern Ontario,36557,15375
+N0G,Southwestern Ontario,86935,35896
+N0H,Southwestern Ontario,53674,34400
+N0J,Southwestern Ontario,33457,12005
+N0K,Southwestern Ontario,24817,9419
+N0L,Southwestern Ontario,49817,19408
+N0M,Southwestern Ontario,69177,32011
+N0N,Southwestern Ontario,42297,18752
+N0P,Southwestern Ontario,53140,23162
+N0R,Southwestern Ontario,50203,19287
+N1A,Southwestern Ontario,12614,5563
+N1C,Southwestern Ontario,3678,1237
+N1E,Southwestern Ontario,44799,18055
+N1G,Southwestern Ontario,29688,12853
+N1H,Southwestern Ontario,42178,18802
+N1K,Southwestern Ontario,10908,3787
+N1L,Southwestern Ontario,17474,6722
+N1M,Southwestern Ontario,18498,7546
+N1P,Southwestern Ontario,7991,2526
+N1R,Southwestern Ontario,42928,18081
+N1S,Southwestern Ontario,20171,8187
+N1T,Southwestern Ontario,18513,5647
+N2A,Southwestern Ontario,32454,12178
+N2B,Southwestern Ontario,16939,7329
+N2C,Southwestern Ontario,17681,7494
+N2E,Southwestern Ontario,40428,14544
+N2G,Southwestern Ontario,14580,8284
+N2H,Southwestern Ontario,22456,11453
+N2J,Southwestern Ontario,20899,10672
+N2K,Southwestern Ontario,29381,10815
+N2L,Southwestern Ontario,37953,19681
+N2M,Southwestern Ontario,36494,16113
+N2N,Southwestern Ontario,26596,9145
+N2P,Southwestern Ontario,25040,8848
+N2R,Southwestern Ontario,18445,5835
+N2T,Southwestern Ontario,20634,7109
+N2V,Southwestern Ontario,19428,6360
+N2Z,Southwestern Ontario,12341,6608
+N3A,Southwestern Ontario,17045,6395
+N3B,Southwestern Ontario,13190,4824
+N3C,Southwestern Ontario,27518,9657
+N3E,Southwestern Ontario,2802,839
+N3H,Southwestern Ontario,24306,10220
+N3L,Southwestern Ontario,17676,6741
+N3P,Southwestern Ontario,8542,3209
+N3R,Southwestern Ontario,35858,15069
+N3S,Southwestern Ontario,27527,12070
+N3T,Southwestern Ontario,37406,14602
+N3V,Southwestern Ontario,1562,572
+N3W,Southwestern Ontario,15805,5731
+N3Y,Southwestern Ontario,23402,10382
+N4B,Southwestern Ontario,8223,3459
+N4G,Southwestern Ontario,21519,9509
+N4K,Southwestern Ontario,28975,13555
+N4L,Southwestern Ontario,8337,4293
+N4N,Southwestern Ontario,10341,4849
+N4S,Southwestern Ontario,33055,14516
+N4T,Southwestern Ontario,15161,5543
+N4V,Southwestern Ontario,3477,1360
+N4W,Southwestern Ontario,13311,5221
+N4X,Southwestern Ontario,9946,4195
+N4Z,Southwestern Ontario,2362,911
+N5A,Southwestern Ontario,32898,15203
+N5C,Southwestern Ontario,15721,6382
+N5H,Southwestern Ontario,15625,5763
+N5L,Southwestern Ontario,3714,2003
+N5P,Southwestern Ontario,21081,8962
+N5R,Southwestern Ontario,30680,12933
+N5V,Southwestern Ontario,32961,13236
+N5W,Southwestern Ontario,24740,12388
+N5X,Southwestern Ontario,36963,13738
+N5Y,Southwestern Ontario,35934,16194
+N5Z,Southwestern Ontario,24067,11008
+N6A,Southwestern Ontario,13810,9768
+N6B,Southwestern Ontario,11101,7181
+N6C,Southwestern Ontario,30629,14812
+N6E,Southwestern Ontario,28140,10366
+N6G,Southwestern Ontario,50940,20315
+N6H,Southwestern Ontario,44215,20694
+N6J,Southwestern Ontario,27497,13174
+N6K,Southwestern Ontario,37596,15303
+N6L,Southwestern Ontario,5167,1699
+N6M,Southwestern Ontario,8542,2822
+N6N,Southwestern Ontario,728,299
+N6P,Southwestern Ontario,10943,4081
+N7A,Southwestern Ontario,12495,6687
+N7G,Southwestern Ontario,19921,8072
+N7L,Southwestern Ontario,25127,11583
+N7M,Southwestern Ontario,25579,11361
+N7S,Southwestern Ontario,28410,11643
+N7T,Southwestern Ontario,26033,13973
+N7V,Southwestern Ontario,11611,5713
+N7W,Southwestern Ontario,2578,1316
+N7X,Southwestern Ontario,1129,483
+N8A,Southwestern Ontario,12624,5765
+N8H,Southwestern Ontario,27530,10486
+N8M,Southwestern Ontario,11819,4755
+N8N,Southwestern Ontario,24534,9580
+N8P,Southwestern Ontario,14603,5536
+N8R,Southwestern Ontario,12733,4455
+N8S,Southwestern Ontario,22354,10830
+N8T,Southwestern Ontario,17935,8046
+N8W,Southwestern Ontario,24057,10072
+N8X,Southwestern Ontario,16457,7796
+N8Y,Southwestern Ontario,19254,9686
+N9A,Southwestern Ontario,26107,14264
+N9B,Southwestern Ontario,19613,8223
+N9C,Southwestern Ontario,12538,5838
+N9E,Southwestern Ontario,21465,7779
+N9G,Southwestern Ontario,20712,6728
+N9H,Southwestern Ontario,13173,4737
+N9J,Southwestern Ontario,20089,7389
+N9K,Southwestern Ontario,2757,862
+N9V,Southwestern Ontario,21688,8790
+N9Y,Southwestern Ontario,15836,6522
+P0A,Northern Ontario,17822,14748
+P0B,Northern Ontario,9589,8951
+P0C,Northern Ontario,4824,6930
+P0E,Northern Ontario,3606,3164
+P0G,Northern Ontario,3553,4048
+P0H,Northern Ontario,31909,17044
+P0J,Northern Ontario,20179,9704
+P0K,Northern Ontario,11456,6383
+P0L,Northern Ontario,22859,10591
+P0M,Northern Ontario,49727,24862
+P0N,Northern Ontario,9435,4472
+P0P,Northern Ontario,20285,12782
+P0R,Northern Ontario,12976,8224
+P0S,Northern Ontario,10170,6839
+P0T,Northern Ontario,32000,17869
+P0V,Northern Ontario,22944,9106
+P0W,Northern Ontario,6454,3903
+P0X,Northern Ontario,8410,7414
+P0Y,Northern Ontario,96,226
+P1A,Northern Ontario,16959,7785
+P1B,Northern Ontario,33113,16526
+P1C,Northern Ontario,3371,1197
+P1H,Northern Ontario,18099,10316
+P1L,Northern Ontario,17984,9535
+P1P,Northern Ontario,11083,6921
+P2A,Northern Ontario,14695,10034
+P2B,Northern Ontario,9754,4606
+P2N,Northern Ontario,6944,3943
+P3A,Northern Ontario,24326,10701
+P3B,Northern Ontario,16434,8194
+P3C,Northern Ontario,17596,10143
+P3E,Northern Ontario,29132,14139
+P3G,Northern Ontario,4167,1807
+P3L,Northern Ontario,7996,3288
+P3N,Northern Ontario,7980,3121
+P3P,Northern Ontario,15408,6009
+P3Y,Northern Ontario,7757,3167
+P4N,Northern Ontario,24098,11932
+P4P,Northern Ontario,3232,1371
+P4R,Northern Ontario,4795,1820
+P5A,Northern Ontario,11372,6275
+P5E,Northern Ontario,5427,2704
+P5N,Northern Ontario,8260,4260
+P6A,Northern Ontario,33800,16498
+P6B,Northern Ontario,22754,11032
+P6C,Northern Ontario,18766,8926
+P7A,Northern Ontario,28587,14359
+P7B,Northern Ontario,22675,11110
+P7C,Northern Ontario,21695,10098
+P7E,Northern Ontario,20897,10401
+P7G,Northern Ontario,13238,5781
+P7J,Northern Ontario,4859,1877
+P7K,Northern Ontario,6801,2710
+P7L,Northern Ontario,2188,1163
+P8N,Northern Ontario,9619,4597
+P8T,Northern Ontario,5541,2507
+P9A,Northern Ontario,10079,5176
+P9N,Northern Ontario,14088,7180

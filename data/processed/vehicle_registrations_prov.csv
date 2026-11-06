@@ -1,0 +1,121 @@
+period,geography,fuel_type,vehicle_type,vehicles
+2022-Q4,Canada,All fuel types,Total,346478
+2022-Q4,Canada,Gasoline,Total,279160
+2022-Q4,Canada,Diesel,Total,16536
+2022-Q4,Canada,All zero-emission vehicles,Total,33420
+2022-Q4,Canada,Battery electric,Total,27775
+2022-Q4,Canada,Plug-in hybrid electric,Total,5645
+2022-Q4,Canada,Hybrid electric,Total,17362
+2022-Q4,Canada,Other fuel types,Total,0
+2023-Q1,Canada,All fuel types,Total,355886
+2023-Q1,Canada,Gasoline,Total,285416
+2023-Q1,Canada,Diesel,Total,16567
+2023-Q1,Canada,All zero-emission vehicles,Total,30978
+2023-Q1,Canada,Battery electric,Total,24217
+2023-Q1,Canada,Plug-in hybrid electric,Total,6761
+2023-Q1,Canada,Hybrid electric,Total,22919
+2023-Q1,Canada,Other fuel types,Total,6
+2023-Q2,Canada,All fuel types,Total,473602
+2023-Q2,Canada,Gasoline,Total,367146
+2023-Q2,Canada,Diesel,Total,19766
+2023-Q2,Canada,All zero-emission vehicles,Total,47685
+2023-Q2,Canada,Battery electric,Total,35633
+2023-Q2,Canada,Plug-in hybrid electric,Total,12052
+2023-Q2,Canada,Hybrid electric,Total,39000
+2023-Q2,Canada,Other fuel types,Total,5
+2023-Q3,Canada,All fuel types,Total,457368
+2023-Q3,Canada,Gasoline,Total,343102
+2023-Q3,Canada,Diesel,Total,18106
+2023-Q3,Canada,All zero-emission vehicles,Total,57406
+2023-Q3,Canada,Battery electric,Total,43763
+2023-Q3,Canada,Plug-in hybrid electric,Total,13643
+2023-Q3,Canada,Hybrid electric,Total,38751
+2023-Q3,Canada,Other fuel types,Total,3
+2023-Q4,Canada,All fuel types,Total,428143
+2023-Q4,Canada,Gasoline,Total,320848
+2023-Q4,Canada,Diesel,Total,19589
+2023-Q4,Canada,All zero-emission vehicles,Total,52687
+2023-Q4,Canada,Battery electric,Total,40053
+2023-Q4,Canada,Plug-in hybrid electric,Total,12634
+2023-Q4,Canada,Hybrid electric,Total,35017
+2023-Q4,Canada,Other fuel types,Total,2
+2024-Q1,Canada,All fuel types,Total,414920
+2024-Q1,Canada,Gasoline,Total,313579
+2024-Q1,Canada,Diesel,Total,17980
+2024-Q1,Canada,All zero-emission vehicles,Total,48425
+2024-Q1,Canada,Battery electric,Total,35782
+2024-Q1,Canada,Plug-in hybrid electric,Total,12643
+2024-Q1,Canada,Hybrid electric,Total,34934
+2024-Q1,Canada,Other fuel types,Total,2
+2024-Q2,Canada,All fuel types,Total,511378
+2024-Q2,Canada,Gasoline,Total,383701
+2024-Q2,Canada,Diesel,Total,20922
+2024-Q2,Canada,All zero-emission vehicles,Total,65799
+2024-Q2,Canada,Battery electric,Total,48552
+2024-Q2,Canada,Plug-in hybrid electric,Total,17247
+2024-Q2,Canada,Hybrid electric,Total,40945
+2024-Q2,Canada,Other fuel types,Total,11
+2024-Q3,Canada,All fuel types,Total,483588
+2024-Q3,Canada,Gasoline,Total,339576
+2024-Q3,Canada,Diesel,Total,21866
+2024-Q3,Canada,All zero-emission vehicles,Total,75788
+2024-Q3,Canada,Battery electric,Total,56197
+2024-Q3,Canada,Plug-in hybrid electric,Total,19591
+2024-Q3,Canada,Hybrid electric,Total,46355
+2024-Q3,Canada,Other fuel types,Total,3
+2024-Q4,Canada,All fuel types,Total,443555
+2024-Q4,Canada,Gasoline,Total,296534
+2024-Q4,Canada,Diesel,Total,18980
+2024-Q4,Canada,All zero-emission vehicles,Total,81216
+2024-Q4,Canada,Battery electric,Total,61802
+2024-Q4,Canada,Plug-in hybrid electric,Total,19414
+2024-Q4,Canada,Hybrid electric,Total,46821
+2024-Q4,Canada,Other fuel types,Total,4
+2025-Q1,Canada,All fuel types,Total,426872
+2025-Q1,Canada,Gasoline,Total,312170
+2025-Q1,Canada,Diesel,Total,23637
+2025-Q1,Canada,All zero-emission vehicles,Total,37229
+2025-Q1,Canada,Battery electric,Total,26401
+2025-Q1,Canada,Plug-in hybrid electric,Total,10828
+2025-Q1,Canada,Hybrid electric,Total,53828
+2025-Q1,Canada,Other fuel types,Total,8
+2025-Q2,Canada,All fuel types,Total,541896
+2025-Q2,Canada,Gasoline,Total,405417
+2025-Q2,Canada,Diesel,Total,24234
+2025-Q2,Canada,All zero-emission vehicles,Total,46413
+2025-Q2,Canada,Battery electric,Total,29536
+2025-Q2,Canada,Plug-in hybrid electric,Total,16877
+2025-Q2,Canada,Hybrid electric,Total,65832
+2025-Q2,Canada,Other fuel types,Total,0
+2025-Q3,Canada,All fuel types,Total,486283
+2025-Q3,Canada,Gasoline,Total,357648
+2025-Q3,Canada,Diesel,Total,21455
+2025-Q3,Canada,All zero-emission vehicles,Total,47222
+2025-Q3,Canada,Battery electric,Total,28648
+2025-Q3,Canada,Plug-in hybrid electric,Total,18574
+2025-Q3,Canada,Hybrid electric,Total,59952
+2025-Q3,Canada,Other fuel types,Total,6
+2025-Q4,Canada,All fuel types,Total,412746
+2025-Q4,Canada,Gasoline,Total,297125
+2025-Q4,Canada,Diesel,Total,17920
+2025-Q4,Canada,All zero-emission vehicles,Total,47204
+2025-Q4,Canada,Battery electric,Total,31482
+2025-Q4,Canada,Plug-in hybrid electric,Total,15722
+2025-Q4,Canada,Hybrid electric,Total,50478
+2025-Q4,Canada,Other fuel types,Total,19
+2026-Q1,Canada,All fuel types,Total,397601
+2026-Q1,Canada,Gasoline,Total,283361
+2026-Q1,Canada,Diesel,Total,17543
+2026-Q1,Canada,All zero-emission vehicles,Total,43113
+2026-Q1,Canada,Battery electric,Total,29808
+2026-Q1,Canada,Plug-in hybrid electric,Total,13305
+2026-Q1,Canada,Hybrid electric,Total,53584
+2026-Q1,Canada,Other fuel types,Total,0
+2026-Q2,Canada,All fuel types,Total,547673
+2026-Q2,Canada,Gasoline,Total,375814
+2026-Q2,Canada,Diesel,Total,21180
+2026-Q2,Canada,All zero-emission vehicles,Total,58811
+2026-Q2,Canada,Battery electric,Total,40585
+2026-Q2,Canada,Plug-in hybrid electric,Total,18226
+2026-Q2,Canada,Hybrid electric,Total,91868
+2026-Q2,Canada,Other fuel types,Total,0
